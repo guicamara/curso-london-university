@@ -1,0 +1,31 @@
+
+.container{
+    
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+
+.imagem-pequena{
+
+    width:30%;
+}
+
+.imagem-grande{
+    width:80%;
+}
+.caixa{
+    display:flex;
+   justify-content: center;
+    text-align:center;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    vertical-align: top;
+}
+.caixa button{
+    height: 30px;
+}
+
+
